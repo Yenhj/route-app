@@ -1,11 +1,11 @@
 import React from "react";
 
-const Home = () => {
+const SongList = () => {
   return (
     <div className="card card-body">
-      <h2>Home</h2>
+      <h2>SongList</h2>
     </div>
   );
 };
 
-export default Home;
+export default SongList;
