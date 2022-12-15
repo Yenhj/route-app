@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Peaches",
+    "musician": "Justin Bieber",
+    "youtube_link": "tQ0yjYUFKAE"
+  },
+  {
+    "id": 2,
+    "title": "Never not",
+    "musician": "Lauv",
+    "youtube_link": "p6owUZ_pExE"
+  },
+  {
+    "id": 3,
+    "title": "Summer",
+    "musician": "Keshi",
+    "youtube_link": "6B00t5dqIPU-A"
+  },
+  {
+    "id": 4,
+    "title": "God's Plan",
+    "musician": "Drake",
+    "youtube_link": "m1a_GqJf02M"
+  },
+  {
+    "id": 5,
+    "title": "Why",
+    "musician": "Bazzi",
+    "youtube_link": "lwop_SAaXmM"
+  },
+  {
+    "id": 6,
+    "title": "Break up with your girlfriend, i'm bored",
+    "musician": "Ariana Grande",
+    "youtube_link": "LH4Y1ZUUx2g"
+  },
+  {
+    "id": 7,
+    "title": "Blinding lights",
+    "musician": "The Weeknd",
+    "youtube_link": "fHI8X4OXluQ"
+  },
+  {
+    "id": 8,
+    "title": "Square (2017)",
+    "musician": "Yerin Baek",
+    "youtube_link": "4iFP_wd6QU8"
+  }
+]
